@@ -1,5 +1,9 @@
 # NucleoATAC
 
+> [!NOTE]
+> This forked repo is for calling nucleosomes on single-ended ATAC-seq reads (e.g. from Ultima sequencing), last updated by Betty Liu on July 22, 2024.
+
+
 **This package is no longer being actively maintained; feel free to post issues that others in the community may respond to, but this package will likely not be updated further. Additionally, if anyone wants to maintain a fork of the package or has developed an alternative package for similar purposes, would be happy to link to that repo here.**
 
 Python package for calling nucleosomes using ATAC-seq data.
